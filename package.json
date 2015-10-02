@@ -1,7 +1,7 @@
 {
   "name": "react-dynform",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "A pluggable react form controller.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/burmisov/react-dynform.git"
   },
-  "author": "",
+  "author": "Sergey Burmisov (github.com/burmisov)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/burmisov/react-dynform/issues"
